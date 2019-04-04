@@ -1,3 +1,7 @@
 # Encode-Decode Residual Network (IVIP-Lab)
 Our solution for NTIRE2019 Real Super-Resolution Challenge.
-https://github.com/yyknight/NTIRE2019_EDRN
+
+We are so sorry for submitting a wrong download link of our solution.
+The correct link is [here](https://github.com/yyknight/NTIRE2019_EDRN)
+
+Thanks.
